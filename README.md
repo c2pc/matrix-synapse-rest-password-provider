@@ -24,7 +24,7 @@ and profile information into actionables in synapse, and adapt your user profile
 Copy in whichever directory python can pick it up as a module.
 
 ```
-sudo pip install git+https://github.com/ma1uta/matrix-synapse-rest-password-provider
+sudo pip install git+https://github.com/c2pc/matrix-synapse-rest-password-provider
 ```
 
 If the command fail, double check that the python version still matches. If not, please let us know by opening an issue.
